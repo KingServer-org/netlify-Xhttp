@@ -1,3 +1,5 @@
+#powered by Mr TelneT
+#Kingserver
 // netlify/edge-functions/proxy.js
 
 // Read the backend URL from environment variables,
